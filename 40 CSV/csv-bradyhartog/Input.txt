@@ -1,0 +1,9 @@
+the,2,brown,4,jumps,6,the,8,dog
+10,quick,12,fox,14,over,16,lazy
+the,19,brown,21,jumps,23,the
+25,quick,27,fox,29,over
+the,32,brown,34,jumps
+36,quick,38,fox
+the,41,brown
+43,quick
+the
